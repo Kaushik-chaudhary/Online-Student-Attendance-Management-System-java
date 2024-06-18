@@ -1,8 +1,6 @@
 # Online-Student-Attendance-System---JAVA
 The Online Students Attendance System is a robust application developed using Core Java for College Project, to facilitate the management and tracking of student attendance in educational institutions. This system replaces traditional method of attendance tracking with a digital solution, offering improved efficiency, accuracy, and accessibility. The system is designed to cater to the needs of administrators, teachers, and students, ensuring a seamless and user-friendly experience.
 
-Note:- Send user name and password to students via email on this page Some error occurs.
-
 -> Project Description
 
 01) Objectives
@@ -25,7 +23,6 @@ Data Security: Implement robust security measures to protect sensitive attendanc
 Leave Section: Students can send leave reports to faculty. and Faculty can reject or approve the Leave Report
 
 03) Technologies Used
-4) 
 HTML, CSS, JS
 Core Java: Backend logic and processing 
 JDBC: Database connectivity
